@@ -10,6 +10,8 @@ npm-debug.log
 .idea
 .vscode
 coverage
+coverage
+coverage
 coverage-e2e
 demo/src/api-docs.ts
 demo/src/public/**/plnkr.html

@@ -1,4 +1,4 @@
-import {NgbCarouselConfig} from './carousel-config';
+import { NgbCarouselConfig } from './carousel-config';
 
 describe('ngb-carousel-config', () => {
   it('should have sensible default values', () => {
@@ -9,6 +9,9 @@ describe('ngb-carousel-config', () => {
     expect(config.wrap).toBe(true);
     expect(config.pauseOnHover).toBe(true);
     expect(config.showNavigationIndicators).toBe(true);
+    expect(config.showNavigationArrows).toBe(true);
+    expect(config.showNavigationArrows).toBe(true);
+    expect(config.showNavigationArrows).toBe(true);
     expect(config.showNavigationArrows).toBe(true);
   });
 });

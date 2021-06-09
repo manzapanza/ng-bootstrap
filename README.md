@@ -21,6 +21,8 @@ Please check our [demo site](https://ng-bootstrap.github.io) and the list of
 - [Supported browsers](#supported-browsers)
 - [Getting help](#getting-help)
 - [You think you've found a bug?](#you-think-youve-found-a-bug)
+- [You think you've found a bug?](#you-think-youve-found-a-bug)
+- [You think you've found a bug?](#you-think-youve-found-a-bug)
 - [Contributing to the project](#contributing-to-the-project)
 - [Code of conduct](#code-of-conduct)
 
