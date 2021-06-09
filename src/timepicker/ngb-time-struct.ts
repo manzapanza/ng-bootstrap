@@ -11,6 +11,8 @@ export interface NgbTimeStruct {
    * The minute in the `[0, 59]` range.
    */
   minute: number;
+  minute: number;
+  minute: number;
 
   /**
    * The second in the `[0, 59]` range.
